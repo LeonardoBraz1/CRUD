@@ -9,7 +9,7 @@
   <body>
     <nav class="navbar navbar-expand-lg bg-light">
       <div class="container-fluid">
-        <a class="navbar-brand" href="#">Cadastro</a>
+        <a class="navbar-brand fs-3" href="#">Cadastro</a>
         <button
           class="navbar-toggler"
           type="button"
@@ -24,13 +24,10 @@
         <div class="collapse navbar-collapse" id="navbarNav">
           <ul class="navbar-nav">
             <li class="nav-item">
-              <a class="nav-link active" aria-current="page" href="#">Home</a>
+              <a class="nav-link fs-4 fw-bold" href="?page=cadastro">Cadastra cliente</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="?page=cadastro">Cadastra cliente</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="?page=lista">Lista de clientes</a>
+              <a class="nav-link fs-4 fw-bold" href="?page=lista">Lista de clientes</a>
             </li>
           </ul>
         </div>

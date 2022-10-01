@@ -1,4 +1,4 @@
-# CURD
+# CRUD 
 
 # Descrição do projeto
 
